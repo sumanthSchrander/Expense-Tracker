@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A neat personal expense tracker mobile app in INR supporting salary credits, budgets, categories, and smart trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
